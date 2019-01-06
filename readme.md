@@ -1,3 +1,4 @@
+[![Build status](https://martinhc.visualstudio.com/Open%20Source/_apis/build/status/ConsoleTaskRunner)](https://martinhc.visualstudio.com/Open%20Source/_build/latest?definitionId=7)
 
 # Console Task Runner Sample  
   
