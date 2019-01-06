@@ -9,11 +9,11 @@ Some typical usecases.
  - Migration Tools
 
 ## How to?
-First thing is that you need to duplicate this repository, so you can adjust the console runner to your project.
+First thing is that you need to do, is to duplicate this repository, so you can adjust the console runner to your own project.
 
 Secondly you can create the task handlers to your liking by (default MediatR usage)
-1.Create a new class deriving from `IRequest<TReturnType>`
-2 Create a new class deriving from `IRequestHandler<TRequestType, TReturnType>`
+1. Create a new class deriving from `IRequest<TReturnType>`
+2. Create a new class deriving from `IRequestHandler<TRequestType, TReturnType>`
 
 A sample handler from the the repository inside `Handlers` folder
 
